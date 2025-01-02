@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1fC9UtrRNjsRpntjnfEMZATJvH8O9mULr3WvDQjBEC8=",
+  "Source": "MinimalApiEndpointDiscovery",
+  "BasePath": "_content/MinimalApiEndpointDiscovery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
